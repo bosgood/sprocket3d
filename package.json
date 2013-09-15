@@ -1,0 +1,16 @@
+{
+  "name": "serve",
+  "version": "0.0.1",
+  "author": "Brad Osgood",
+  "homepage": "http://bosgood.com",
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:bosgood/bosgood-com.git"
+  },
+  "engines": {
+    "node": ">= 0.5 < 0.7"
+  },
+  "dependencies": {
+    "express": "3.x"
+  }
+}
