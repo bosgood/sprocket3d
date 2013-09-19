@@ -4,4 +4,6 @@ Here's a cool 3D WebGL version of HubSpot's sprocket logo custom built using [Bl
 
 Created with ♥ by Brad Osgood.
 
+See it live: [3D sprocket live demo](http://bsgd.me/sprocket3d)
+
 ![3d sprocket](https://raw.github.com/bosgood/sprocket3d/master/screenshot.png)
